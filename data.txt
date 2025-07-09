@@ -1,0 +1,50 @@
+Name: Prathamesh Pawar
+Title: Aspiring AI Engineer | Final Year Student at IIIT-VICD
+LinkedIn: https://www.linkedin.com/in/prathameshppawar/
+
+Technical Skills:
+- Programming: Python, JavaScript, TypeScript
+- Web: FastAPI, Node.js, React, Docker, REST APIs
+- AI/ML: HuggingFace Transformers, LangChain, Gemini, Groq, OpenAI, RAG, LLaMA
+- DevOps: Docker, Containerization, Git, GitHub Actions
+- Tools: Jupyter, Kaggle, VSCode, Pillow
+
+AI & Machine Learning Projects:
+
+1. Fine-Tuning DeepSeek-R1 on Medical-CoT Dataset
+   - Fine-tuned DeepSeek-R1 using the Medical-CoT dataset from HuggingFace.
+   - Conducted training on Kaggle Notebooks with 4-bit quantization for efficient resource use.
+   - Enhanced performance on medical reasoning tasks.
+
+2. Multimodal RAG Chatbot
+   - Developed a Retrieval-Augmented Generation (RAG) chatbot using Groq's LLaMA 3.3-70B.
+   - Backend built with FastAPI and containerized using Docker.
+   - Designed for Kubernetes deployment with structured folders and deployment manifests.
+   - Supports multimodal inputs and fast inference through Groq’s models.
+
+3. Research Companion Using Gemini 2.5 Flash
+   - Created a tool for researchers that reads documents, summarizes, and generates research reports.
+   - Integrated podcast generation using Gemini 2.5 Flash for audio delivery of summaries.
+   - Served through a FastAPI backend, optimized for integration with EdTech tools.
+
+4. NL2SQL for Food Delivery Dataset
+   - Built a natural language to SQL query generator.
+   - Supports questions like “Which restaurant got the most orders last week?” on a food delivery schema.
+   - Simplifies data exploration without needing SQL knowledge.
+
+5. Productivity Wallpaper Task Interface
+   - Open-source Python tool that turns tasks into dynamic desktop wallpaper.
+   - Built using Pillow, reads from `tasks.txt`, and updates the wallpaper image with active tasks.
+   - Uses file-watching to reflect changes in real time — ideal for productivity enthusiasts.
+
+Internships:
+
+Divegen Technologies
+- Developed an AI-powered agritech platform using FastAPI and computer vision.
+- Worked on full-stack modules with integration of AI recommendations for farmers.
+- Contributed in an agile team with regular sprints and feature rollouts.
+
+Key Strengths:
+- End-to-end AI system development — from notebook to production.
+- Experience with fine-tuning, RAG, vector search, and API delivery.
+- Passion for solving real problems with clean and useful AI tools.
